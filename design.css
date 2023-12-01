@@ -1,0 +1,16 @@
+body{
+margin: auto;
+width: 320px;
+height: 320px;
+}
+div{
+    
+    border-style: ridge;
+    margin-top: 10px;
+    border-radius: 2px;
+    border-width: 10px;
+    width: 340px;
+}
+h2{
+    margin-top: 0px;
+}
